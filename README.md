@@ -9,3 +9,7 @@
 ``const accessKeyId = "{accessKeyId}" `` 
 
 ``const secretAccessKey = "{secretAccessKey}"``
+
+3. ``npm start``
+
+4. localhost:3000/{getMethod} 로 테스트
