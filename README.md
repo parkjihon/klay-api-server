@@ -5,5 +5,6 @@
 1. ``npm install``
 
 2. index.js 의 아래 값을 자신의 KAS key 로 변경
+
 ``const accessKeyId = "{accessKeyId}"
 const secretAccessKey = "{secretAccessKey}"``
